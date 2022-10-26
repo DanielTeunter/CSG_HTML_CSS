@@ -3,7 +3,7 @@ body {
     margin: 0;   
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: red;
-    background-color: chocolate;    
+    background-color: rgb(30, 210, 60);    
 }
 
 #container {
@@ -12,7 +12,7 @@ body {
     margin: auto;
     margin-top: 1%;
     padding: 20px;
-    color: dodgerblue;
+    color: rgb(255, 30, 161);
 }
 
 .item {
